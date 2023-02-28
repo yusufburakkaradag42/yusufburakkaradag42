@@ -106,7 +106,8 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [bootstrap-responsive-project](https://mttaskin.github.io/bootstrap-responsive-project/) | <h3>[Repo](https://github.com/mttaskin/bootstrap-responsive-project)</h3> | HTML5, CSS3 Frameworks, Bootstrap-5 |![bootstrap-responsive-project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
 [Website Page Design with SASS](https://mttaskin.github.io/sass-project/) | <h3>[Repo](https://github.com/mttaskin/sass-project)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
 [checkout project](https://mttaskin.github.io/checkout-project/) | <h3>[Repo](https://github.com/mttaskin/checkout-project/)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
-[Weather App](https://yusufburakkaradag42.github.io/weather.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/weather.app)</h3>|js, aes.js, extentions.js, axios, async await, API|![weather](https://www.webmobilefirst.com/en/screencasts/K01qh5HfYp/)
+[Weather App](https://yusufburakkaradag42.github.io/weather.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/weather.app)</h3>|js, aes.js, extentions.js, axios, async await, API|![weather](![weatherapp](https://user-images.githubusercontent.com/118989504/221839506-16feb1b2-b74f-4674-a397-1645bf59a849.gif)
+)
 <br>
 
 
