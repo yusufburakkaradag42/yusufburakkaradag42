@@ -102,7 +102,7 @@
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
 [Hospital App](https://yusufburakkaradag-hospital.netlify.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/appointmentapp)</h3> | React |![todo](https://user-images.githubusercontent.com/118989504/221845611-5e6c6b96-bb5d-462c-98c3-e6850e6499d5.gif)
-[Horos](https://github.com/yusufburakkaradag42/solution) | <h3>[Repo](https://github.com/yusufburakkaradag42/solution)</h3>|React SASS/SCSS|![screen-recording-_5_](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
+[Horos](https://yusufburakkaradag42.github.io/solution/) | <h3>[Repo](https://github.com/yusufburakkaradag42/solution)</h3>|React SASS/SCSS|![screen-recording-_5_](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
 [checkout project](https://yusufburakkaradag42.github.io/al--veri--sepeti/) | <h3>[Repo](https://github.com/yusufburakkaradag42/al--veri--sepeti)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 [Weather App](https://yusufburakkaradag42.github.io/weather.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/weather.app)</h3>|js, aes.js, extentions.js, axios, async await, API|![weatherapp](https://user-images.githubusercontent.com/118989504/221839506-16feb1b2-b74f-4674-a397-1645bf59a849.gif)
 <br>
