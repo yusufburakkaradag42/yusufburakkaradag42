@@ -102,7 +102,7 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=yusufburakkaradag2&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=yusufburakkaradag42&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
