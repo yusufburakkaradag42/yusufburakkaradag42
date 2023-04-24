@@ -107,9 +107,6 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [checkout project](https://yusufburakkaradag42.github.io/al--veri--sepeti/) | <h3>[Repo](https://github.com/yusufburakkaradag42/al--veri--sepeti)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 [Weather App](https://yusufburakkaradag42.github.io/weather.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/weather.app)</h3>|js, aes.js, extentions.js, axios, async await, API|![weatherapp](https://user-images.githubusercontent.com/118989504/221839506-16feb1b2-b74f-4674-a397-1645bf59a849.gif)
 <br>
-
-
-
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
