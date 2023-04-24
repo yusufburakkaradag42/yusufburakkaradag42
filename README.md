@@ -101,6 +101,7 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
+[Stock App](https://stock-app-six.vercel.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/stock-app)</h3> | PostgreSQL, Material-ui Library, React-router Library, Formik and Yup Libraries, React-toastify Library, Redux toolkit library, Axios library and Django |![todo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUwZGQ3ZGM5ODM4MDIxMGM2MGU3YTJhOGY1N2ZhZTMzMWRlNGNjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/8nqN2poJHWyHU5ygVb/giphy.gif)
 [Movie App](https://movie-app-ybk.netlify.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/movie-app)</h3> | Reactjs, React-Router, Axios, Tailwind, Firebase, React-toastify, TMDB-Api, React-context, live user authentication |![todo](https://user-images.githubusercontent.com/118939050/227712524-b29658a8-bca3-4e8f-ab23-289fb963a51f.gif)
 [Hospital App](https://yusufburakkaradag-hospital.netlify.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/appointmentapp)</h3> | React Bootstrap |![todo](https://user-images.githubusercontent.com/118989504/221845611-5e6c6b96-bb5d-462c-98c3-e6850e6499d5.gif)
 [Horos](https://yusufburakkaradag42.github.io/solution/) | <h3>[Repo](https://github.com/yusufburakkaradag42/solution)</h3>|React SASS/SCSS|![screen-recording-_5_](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
