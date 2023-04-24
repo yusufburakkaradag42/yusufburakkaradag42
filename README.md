@@ -108,20 +108,17 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [checkout project](https://yusufburakkaradag42.github.io/al--veri--sepeti/) | <h3>[Repo](https://github.com/yusufburakkaradag42/al--veri--sepeti)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 [Weather App](https://yusufburakkaradag42.github.io/weather.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/weather.app)</h3>|js, aes.js, extentions.js, axios, async await, API|![weatherapp](https://user-images.githubusercontent.com/118989504/221839506-16feb1b2-b74f-4674-a397-1645bf59a849.gif)
 <br>
-<h2 align="center">💡Most Used Language</h2>
+<h2 align="center">💡 📈 Statistics</h2>
 <div  align="center">
 <br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=yusufburakkaradag42&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufburakkaradag42&theme=blue-green"
-     alt=""
-     /> <br/>
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yusufburakkaradag42&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufburakkaradag42&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufburakkaradag42&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
+
 <br/>
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
 
 <p align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g"  width="350" height="200"></p>
+</div>
