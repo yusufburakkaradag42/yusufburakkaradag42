@@ -94,6 +94,10 @@
 
 </div>
 </br>
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/yusufburakkaradag42/count.svg" alt ="Loading">
+<br>
+<hr>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
 
